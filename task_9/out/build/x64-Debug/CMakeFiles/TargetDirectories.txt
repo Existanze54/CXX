@@ -1,0 +1,3 @@
+C:/Sirius/Programming/C++/task_9/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Sirius/Programming/C++/task_9/out/build/x64-Debug/CMakeFiles/task_9.dir
+C:/Sirius/Programming/C++/task_9/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

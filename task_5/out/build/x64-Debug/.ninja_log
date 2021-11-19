@@ -1,0 +1,11 @@
+# ninja log v5
+0	414	6553181397634933	CMakeFiles/task_5.dir/main.cpp.obj	b4dd6bb33edf185d
+415	497	6553181398315128	task_5.exe	20baa59d94071ada
+0	5	0	clean	9992afb1f91dc381
+1	319	6553338562435686	CMakeFiles/task_5.dir/main.cpp.obj	b4dd6bb33edf185d
+3	551	6553347679800654	CMakeFiles/task_5.dir/Vector3D.cpp.obj	d5bbdb7fe1f5cfd5
+0	580	6553347680080716	CMakeFiles/task_5.dir/main.cpp.obj	b4dd6bb33edf185d
+580	682	6553347680932176	task_5.exe	c8480341f66f7e99
+0	621	6554180558302969	CMakeFiles/task_5.dir/Vector3D.cpp.obj	d5bbdb7fe1f5cfd5
+3	627	6554180558362989	CMakeFiles/task_5.dir/main.cpp.obj	b4dd6bb33edf185d
+627	739	6554180559313196	task_5.exe	c8480341f66f7e99

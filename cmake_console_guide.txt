@@ -1,0 +1,8 @@
+cd /path/to/my/build/folder
+cmake /path/to/my/source/folder
+
+cd (dir to .cpp)
+mkdir build
+cd /build
+cmake ..
+cmake —build .

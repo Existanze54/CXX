@@ -1,0 +1,6 @@
+15 hello
+31 there
+wrong string
+12-4 what?
+-5 friend
+17 prolong

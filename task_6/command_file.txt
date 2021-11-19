@@ -1,0 +1,17 @@
+add 5 use
+print
+add Oops wrong
+remove_value 31
+print
+search_value Oops
+remove_name hello
+print
+add 13 okok
+print
+wrong
+search_value -5
+print
+wrong string
+search_name there
+count
+print
